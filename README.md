@@ -26,7 +26,7 @@ Elevate performs the following actions in a systematic manner:
 7. **Clean-up Operation:**  Crucially, after a brief delay, the script diligently removes the registry entries it created, minimizing its footprint and restoring the system's registry to its previous state (regarding these specific keys).
 8. **User Feedback:** Throughout the process, the script provides informative messages to the user, indicating the current stage of execution and the outcome of the privilege escalation attempt.
 
-![Detailed Flowchart of the Script's Logic (Replace with your image URL)](./images/script_flow_detailed.png)
+![Detailed Flowchart of the Script's Logic (Replace with your image URL)](https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg)
 *Replace `./images/script_flow_detailed.png` with a clear, detailed flowchart illustrating the script's execution steps and decision points.*
 
 ## 🚀 Getting Started
