@@ -38,16 +38,15 @@ Elevate performs the following actions in a systematic manner:
 
 ```bash
 REM Example of running the script from the command line
-C:\Users\YourUser\Downloads> elevate.bat```
-
+C:\Users\YourUser\Downloads> elevate.bat
 
 ***⚠️ Important Considerations and Ethical Use***
-Educational and Ethical Use Only: This script is provided for educational purposes and security testing in authorized environments only. Using this script without explicit permission is unethical and potentially illegal.
+* Educational and Ethical Use Only: This script is provided for educational purposes and security testing in authorized environments only. Using this script without explicit permission is unethical and potentially illegal.
 
-Antivirus Detection: Security software is likely to flag this script due to the techniques it employs. Disable your antivirus or create an exception in a controlled testing environment.
+* Antivirus Detection: Security software is likely to flag this script due to the techniques it employs. Disable your antivirus or create an exception in a controlled testing environment.
 
-System Configuration Dependency: The success of this script depends on the system's configuration, UAC settings, and applied security patches. It may not work on all systems.
+* System Configuration Dependency: The success of this script depends on the system's configuration, UAC settings, and applied security patches. It may not work on all systems.
 
-Understand the Risks: Running this script involves modifying the system registry. While the script includes a cleanup routine, it's essential to understand the potential risks involved in registry manipulation. Use with caution and at your own risk.
+* Understand the Risks: Running this script involves modifying the system registry. While the script includes a cleanup routine, it's essential to understand the potential risks involved in registry manipulation. Use with caution and at your own risk.
 
-Experiment in Isolated Environments: It is highly recommended to test this script in virtual machines or isolated test environments to avoid unintended consequences on your primary system.
+* Experiment in Isolated Environments: It is highly recommended to test this script in virtual machines or isolated test environments to avoid unintended consequences on your primary system.
