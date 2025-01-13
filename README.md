@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg" alt="ZeroEthical">
 </p>
+# UAC-Batpass
+I would really appriciate if you left a star ❤
+
+![downloads](https://img.shields.io/github/downloads/AnixDevGit/UAC-Batpass/total.svg?color=red)
+![stars](https://img.shields.io/github/stars/AnixDevGit/UAC-Batpass.svg?color=red)
 
 # 🔑 Elevate: A Deep Dive into Windows Privilege Escalation via `fodhelper.exe`
 
