@@ -1,4 +1,6 @@
-![image](https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg)
+<p align="center">
+  <img src="https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg" alt="ZeroEthical">
+</p>
 # 🔑 Elevate: A Deep Dive into Windows Privilege Escalation via `fodhelper.exe`
 
 **Elevate** is a meticulously crafted Batch script designed for educational purposes and security assessments. It provides a practical demonstration of a common privilege escalation technique in Windows environments, specifically targeting the `fodhelper.exe` mechanism. This script serves as a valuable tool for **cybersecurity professionals**, **penetration testers**, **system administrators**, and **security researchers** seeking to understand the intricacies of local privilege escalation vulnerabilities.
