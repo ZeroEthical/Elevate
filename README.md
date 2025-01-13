@@ -1,3 +1,4 @@
+![image](https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg)
 # 🔑 Elevate: A Deep Dive into Windows Privilege Escalation via `fodhelper.exe`
 
 **Elevate** is a meticulously crafted Batch script designed for educational purposes and security assessments. It provides a practical demonstration of a common privilege escalation technique in Windows environments, specifically targeting the `fodhelper.exe` mechanism. This script serves as a valuable tool for **cybersecurity professionals**, **penetration testers**, **system administrators**, and **security researchers** seeking to understand the intricacies of local privilege escalation vulnerabilities.
@@ -25,9 +26,6 @@ Elevate performs the following actions in a systematic manner:
 6. **Payload Execution (Placeholder):** A designated section within the script (`REM ADD Your code below`) serves as a placeholder where you can insert commands or scripts that you want to execute with the newly acquired administrative privileges.
 7. **Clean-up Operation:**  Crucially, after a brief delay, the script diligently removes the registry entries it created, minimizing its footprint and restoring the system's registry to its previous state (regarding these specific keys).
 8. **User Feedback:** Throughout the process, the script provides informative messages to the user, indicating the current stage of execution and the outcome of the privilege escalation attempt.
-
-![Detailed Flowchart of the Script's Logic (Replace with your image URL)](https://github.com/ZeroEthical/Elevate/blob/main/image.jpeg)
-*Replace `./images/script_flow_detailed.png` with a clear, detailed flowchart illustrating the script's execution steps and decision points.*
 
 ## 🚀 Getting Started
 
